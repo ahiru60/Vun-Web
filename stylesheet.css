@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'park_tech_cgregular';
-    src: url('D:/Study/Git_Rep/website/vun_web/park_tech_cg-webfont.woff2') format('woff2'),
-         url('D:/Study/Git_Rep/website/vun_web/park_tech_cg-webfont.woff') format('woff');
+    src: url('https://github.com/ahiru60/Vun-Web/blob/master/park_tech_cg-webfont.woff2') format('woff2'),
+         url('https://github.com/ahiru60/Vun-Web/blob/master/park_tech_cg-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -16,8 +16,8 @@
 
 @font-face {
     font-family: 'checkbookregular';
-    src: url('D:/Study/Git_Rep/website/vun_web/checkbk0-webfont.woff2') format('woff2'),
-         url('D:/Study/Git_Rep/website/vun_web/checkbk0-webfont.woff') format('woff');
+    src: url('https://github.com/ahiru60/Vun-Web/blob/master/checkbk0-webfont.woff2') format('woff2'),
+         url('https://github.com/ahiru60/Vun-Web/blob/master/checkbk0-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -28,8 +28,8 @@
 
 @font-face {
     font-family: 'chintzy_cpu_brkregular';
-    src: url('D:/Study/Git_Rep/website/vun_web/chintzy-webfont.woff2') format('woff2'),
-         url('D:/Study/Git_Rep/website/vun_web/chintzy-webfont.woff') format('woff');
+    src: url('https://github.com/ahiru60/Vun-Web/blob/master/chintzy-webfont.woff2') format('woff2'),
+         url('https://github.com/ahiru60/Vun-Web/blob/master/chintzy-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
