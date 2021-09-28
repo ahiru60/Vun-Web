@@ -1,26 +1,69 @@
-.parktech {
-    font-family: 'park_tech_cgregular';
+*{
+   margin: 0; 
+   color: #C6AEC7;
+}
+@font-face {
+    font-family: 'park_tech_cg';
+    src:url('./park_tech_cg_light-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
 }
 
-
-
-
-.checkbook {
-    font-family: 'checkbookregular';
+@font-face {
+    font-family: 'park_tech_cg';
+    src: url('./park_tech_cg-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
 }
+@keyframes backmove{
+    0%{background-image: url("oddback.jpg");background-position: 0px 0px;}
+    24.5651%{background-image: url("oddback.jpg");background-position: 0px -500px;}
+    24.5662%{background-image: url("oddback2.jpg");background-position: 0px 0px;}
+    49.5651%{background-image: url("oddback2.jpg");background-position: -300px -1400px;}
+    49.5662%{background-image: url("oddback3.jpg");background-position: 0px 0px;}
+    74.5651%{background-image: url("oddback3.jpg");background-position: 0px -500px;}
+    74.5662%{background-image: url("oddback4.jpg");background-position: 0px 0px;}
+    100%{background-image: url("oddback4.jpg");background-position: 0px -500px;}
+}
+.bar{
 
+    
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 0px -300px;
+    margin: auto;
+    padding: 30px;
+    background-color: #C04000;
+    width: auto;
+    animation: backmove 100s infinite linear;
+}
+.brand{
+    margin:0px;
+}
 
+.park {
+    font-family: 'park_tech_cg';
+    color: #FFE4E1;
+    font-size: 100px;
 
-
-.cpu {
-    font-family: 'chintzy_cpu_brkregular';
-    font-weight: normal;
-    font-style: normal;
+    
 
 }
+
+iframe{
+    margin: 3px;
+    width: 300px;
+    height: 170px;
+    
+}
+
+.frames{
+    margin: auto;
+  width: auto;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+
