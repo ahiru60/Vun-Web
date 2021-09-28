@@ -1,6 +1,7 @@
 *{
    margin: 0; 
    color: #C6AEC7;
+   background-color:#3A3B3C;
 }
 @font-face {
     font-family: 'park_tech_cg';
@@ -18,14 +19,17 @@
 
 }
 @keyframes backmove{
-    0%{background-image: url("oddback.jpg");background-position: 0px 0px;}
+    0%{background-image: url("http://canarytokens.com/static/ckvnjmzhqdahv6btgrjvoaiev/contact.php");background-position: 0px 0px;}
     24.5651%{background-image: url("oddback.jpg");background-position: 0px -500px;}
     24.5662%{background-image: url("oddback2.jpg");background-position: 0px 0px;}
-    49.5651%{background-image: url("oddback2.jpg");background-position: -300px -1400px;}
+    49.5651%{background-image: url("oddback2.jpg");background-position: -300px -1800px;}
     49.5662%{background-image: url("oddback3.jpg");background-position: 0px 0px;}
     74.5651%{background-image: url("oddback3.jpg");background-position: 0px -500px;}
     74.5662%{background-image: url("oddback4.jpg");background-position: 0px 0px;}
     100%{background-image: url("oddback4.jpg");background-position: 0px -500px;}
+}
+.transpayrent{
+    background-color: transparent;
 }
 .bar{
 
@@ -35,7 +39,6 @@
   background-position: 0px -300px;
     margin: auto;
     padding: 30px;
-    background-color: #C04000;
     width: auto;
     animation: backmove 100s infinite linear;
 }
@@ -53,7 +56,7 @@
 }
 
 iframe{
-    margin: 3px;
+    margin: 30px 3px 3px 3px;
     width: 300px;
     height: 170px;
     
@@ -62,8 +65,12 @@ iframe{
 .frames{
     margin: auto;
   width: auto;
-  border: 3px solid green;
-  padding: 10px;
+  background-color:#3A3B3C;
+padding: 40px 10px 10px 10px;
 }
 
+footer{
+    text-align: center;
+    color: black;
+}
 
