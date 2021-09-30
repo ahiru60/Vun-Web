@@ -19,10 +19,10 @@
 
 }
 @keyframes backmove{
-    0%{background-image: url("http://canarytokens.com/static/ckvnjmzhqdahv6btgrjvoaiev/contact.php");background-position: 0px 0px;}
+    0%{background-image: url("oddback.jpg");background-position: 0px 0px;}
     24.5651%{background-image: url("oddback.jpg");background-position: 0px -500px;}
     24.5662%{background-image: url("oddback2.jpg");background-position: 0px 0px;}
-    49.5651%{background-image: url("oddback2.jpg");background-position: -300px -1800px;}
+    49.5651%{background-image: url("oddback2.jpg");background-position: -80px -800px;}
     49.5662%{background-image: url("oddback3.jpg");background-position: 0px 0px;}
     74.5651%{background-image: url("oddback3.jpg");background-position: 0px -500px;}
     74.5662%{background-image: url("oddback4.jpg");background-position: 0px 0px;}
