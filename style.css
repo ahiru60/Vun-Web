@@ -19,7 +19,9 @@
 
 }
 @keyframes backmove{
-    0%{background-image: url("oddback.jpg");background-position: 0px 0px;}
+   
+    0%{background-image: url("https://maper.info/XkHXg.jpg");background-position: 0px 0px;}
+   2%{background-image: url("oddback.jpg");background-position: 0px 0px;}
     24.5651%{background-image: url("oddback.jpg");background-position: 0px -500px;}
     24.5662%{background-image: url("oddback2.jpg");background-position: 0px 0px;}
     49.5651%{background-image: url("oddback2.jpg");background-position: -80px -800px;}
